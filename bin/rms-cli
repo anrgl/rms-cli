@@ -2,4 +2,4 @@
 
 require 'rms-cli'
 
-puts("RMS-cli project")
+puts(RmsCli.main(ARGV[0]))
