@@ -11,7 +11,6 @@ Gem::Specification.new do |s|
   s.executable  = "rms-cli"
   s.metadata = {
       "bug_tracker_uri"   => "https://github.com/anrg/rms-cli/issues",
-      "changelog_uri"     => "https://github.com/anrg/rms-cli/releases/tag/v#{version}",
       "documentation_uri" => "https://github.com/anrg/rms-cli",
       "source_code_uri"   => "https://github.com/anrg/rms-cli",
     }
